@@ -1,0 +1,10 @@
+# ninja log v5
+0	8379	1663572102831519866	/home/zll/桌面/interpc_git/Inter-pc/inter-pc1/pointnet2/build/temp.linux-x86_64-cpython-37/src/group_points.o	1bcd3331dbec901
+1	8406	1663572102859492080	/home/zll/桌面/interpc_git/Inter-pc/inter-pc1/pointnet2/build/temp.linux-x86_64-cpython-37/src/sampling.o	631c3e4179ae0ec3
+0	8970	1663572103422946644	/home/zll/桌面/interpc_git/Inter-pc/inter-pc1/pointnet2/build/temp.linux-x86_64-cpython-37/src/ball_query.o	6eff690300fb43ce
+0	9499	1663572103950440607	/home/zll/桌面/interpc_git/Inter-pc/inter-pc1/pointnet2/build/temp.linux-x86_64-cpython-37/src/interpolate.o	9b72e5036b9f0103
+0	18403	1663572112855224589	/home/zll/桌面/interpc_git/Inter-pc/inter-pc1/pointnet2/build/temp.linux-x86_64-cpython-37/src/ball_query_gpu.o	d2815e304578b457
+0	18411	1663572112863219014	/home/zll/桌面/interpc_git/Inter-pc/inter-pc1/pointnet2/build/temp.linux-x86_64-cpython-37/src/group_points_gpu.o	d99a61c4bb0baffb
+0	18416	1663572112867216227	/home/zll/桌面/interpc_git/Inter-pc/inter-pc1/pointnet2/build/temp.linux-x86_64-cpython-37/src/interpolate_gpu.o	b5f4555a3082fe56
+1	18447	1663572112899193929	/home/zll/桌面/interpc_git/Inter-pc/inter-pc1/pointnet2/build/temp.linux-x86_64-cpython-37/src/sampling_gpu.o	5c4cd1da9c5bfdfa
+1	19828	1663572114278270444	/home/zll/桌面/interpc_git/Inter-pc/inter-pc1/pointnet2/build/temp.linux-x86_64-cpython-37/src/pointnet2_api.o	2179b2a2d8d9e932

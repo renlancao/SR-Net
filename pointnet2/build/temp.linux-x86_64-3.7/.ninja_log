@@ -1,0 +1,19 @@
+# ninja log v5
+1	6574	1646810805210259062	/home/data1/sunzhuoqun/inter-pc/pointnet2/build/temp.linux-x86_64-3.7/src/interpolate.o	a20694c63dc326fa
+1	6750	1646810805386260637	/home/data1/sunzhuoqun/inter-pc/pointnet2/build/temp.linux-x86_64-3.7/src/group_points.o	e2e95926815acc90
+3	6942	1646810805578262357	/home/data1/sunzhuoqun/inter-pc/pointnet2/build/temp.linux-x86_64-3.7/src/sampling.o	42237feee8a2ee10
+0	7286	1646810805922265438	/home/data1/sunzhuoqun/inter-pc/pointnet2/build/temp.linux-x86_64-3.7/src/ball_query.o	279535390e2ef4c
+2	17487	1646810816118356719	/home/data1/sunzhuoqun/inter-pc/pointnet2/build/temp.linux-x86_64-3.7/src/interpolate_gpu.o	5f619ef58338cea7
+3	17632	1646810816266358044	/home/data1/sunzhuoqun/inter-pc/pointnet2/build/temp.linux-x86_64-3.7/src/sampling_gpu.o	3febd87bd378f427
+2	17737	1646810816370358975	/home/data1/sunzhuoqun/inter-pc/pointnet2/build/temp.linux-x86_64-3.7/src/group_points_gpu.o	9cfcd221a5b9281
+0	18169	1646810816802362841	/home/data1/sunzhuoqun/inter-pc/pointnet2/build/temp.linux-x86_64-3.7/src/ball_query_gpu.o	8d86fa6c1d04fb47
+2	22470	1646810821102401317	/home/data1/sunzhuoqun/inter-pc/pointnet2/build/temp.linux-x86_64-3.7/src/pointnet2_api.o	dd01ce1295d81f7d
+2	5670	1655537151511957729	/home/data1/renlancaopro/inter-pc-dg8-wp8/pointnet2/build/temp.linux-x86_64-3.7/src/interpolate.o	266e8cadb1c0f1eb
+3	5715	1655537151559958199	/home/data1/renlancaopro/inter-pc-dg8-wp8/pointnet2/build/temp.linux-x86_64-3.7/src/sampling.o	2f1b138313232b89
+1	5775	1655537151615958748	/home/data1/renlancaopro/inter-pc-dg8-wp8/pointnet2/build/temp.linux-x86_64-3.7/src/group_points.o	fdf8c3a1d301c710
+0	5887	1655537151731959885	/home/data1/renlancaopro/inter-pc-dg8-wp8/pointnet2/build/temp.linux-x86_64-3.7/src/ball_query.o	751037a185ee6a0
+1	16117	1655537161956060018	/home/data1/renlancaopro/inter-pc-dg8-wp8/pointnet2/build/temp.linux-x86_64-3.7/src/group_points_gpu.o	35b170c6489b2374
+2	16429	1655537162268063072	/home/data1/renlancaopro/inter-pc-dg8-wp8/pointnet2/build/temp.linux-x86_64-3.7/src/interpolate_gpu.o	4a0c2c82c7c98091
+0	16452	1655537162288063268	/home/data1/renlancaopro/inter-pc-dg8-wp8/pointnet2/build/temp.linux-x86_64-3.7/src/ball_query_gpu.o	9cc7680b6ca1976c
+4	16458	1655537162296063347	/home/data1/renlancaopro/inter-pc-dg8-wp8/pointnet2/build/temp.linux-x86_64-3.7/src/sampling_gpu.o	60f954460e62553a
+3	19094	1655537164928089103	/home/data1/renlancaopro/inter-pc-dg8-wp8/pointnet2/build/temp.linux-x86_64-3.7/src/pointnet2_api.o	bdb0e5c4a45777

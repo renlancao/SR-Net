@@ -1,0 +1,5 @@
+# ninja log v5
+0	10967	1662360684740868260	/home/gxz/文档/IDEA-Net-main/p1_EMDloss/build/temp.linux-x86_64-3.6/cuda/emd_kernel.o	86ede18f44f424f5
+0	13378	1662360687148836370	/home/gxz/文档/IDEA-Net-main/p1_EMDloss/build/temp.linux-x86_64-3.6/cuda/emd.o	b7e72c01a358c7d9
+4	10040	1663577016418547956	/home/gxz/桌面/inter-pc-dense_kw3/p1_EMDloss/build/temp.linux-x86_64-3.6/cuda/emd_kernel.o	281111dbe9b22cb3
+4	12666	1663577019042516742	/home/gxz/桌面/inter-pc-dense_kw3/p1_EMDloss/build/temp.linux-x86_64-3.6/cuda/emd.o	1530a4a4fd3de621

@@ -1,0 +1,10 @@
+# ninja log v5
+1	9324	1647868400224592127	/home/gxz/inter-pc/pointnet2/build/temp.linux-x86_64-3.6/src/sampling.o	a31aed6d26d09342
+0	9340	1647868400236591949	/home/gxz/inter-pc/pointnet2/build/temp.linux-x86_64-3.6/src/interpolate.o	e361d5e679eaa307
+0	9440	1647868400344590338	/home/gxz/inter-pc/pointnet2/build/temp.linux-x86_64-3.6/src/group_points.o	3005d9314e5ef8d
+0	10013	1647868400916581810	/home/gxz/inter-pc/pointnet2/build/temp.linux-x86_64-3.6/src/ball_query.o	42b016836085b481
+0	21723	1647868412620407299	/home/gxz/inter-pc/pointnet2/build/temp.linux-x86_64-3.6/src/pointnet2_api.o	83d39cc9a5b1d63e
+1	26106	1647868417008341872	/home/gxz/inter-pc/pointnet2/build/temp.linux-x86_64-3.6/src/sampling_gpu.o	85ea38ab915257dd
+0	26651	1647868417552333762	/home/gxz/inter-pc/pointnet2/build/temp.linux-x86_64-3.6/src/group_points_gpu.o	ccafa7d7e25d812b
+1	26747	1647868417648332331	/home/gxz/inter-pc/pointnet2/build/temp.linux-x86_64-3.6/src/interpolate_gpu.o	16fb3a066d9faa4c
+0	27259	1647868418160324697	/home/gxz/inter-pc/pointnet2/build/temp.linux-x86_64-3.6/src/ball_query_gpu.o	cf5f977dfbc59ae1
