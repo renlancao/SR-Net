@@ -3,11 +3,13 @@ This repository contains Pytorch implementation of **Spatial-Temporal Consistenc
 ## Introduction
 ![Pipeline](.\pipeline.png) 
 In this paper, we organically combine scene flows and features to propose a two-stage network based on residual-learning, which can generate spatially and temporally consistent interpolated frames. At the **<font color=Red>Stage 1</font>**, we propose the spatial-temporal warping module to effectively integrate multi-scale local and global spatial features and temporal correlation into a fusion feature, and then transform it into a coarse interpolated frame. At the **<font color=Red>Stage 2</font>**, we introduce the residual-learning structure to conduct spatial-temporal consistency refinement. A temporal-aware feature aggregation module is proposed, which can facilitate the network adaptively adjusting the contributions of spatial features from input frames, and predict the point-wise offset as the compensations due to coarse estimation errors. 
+
 ## Results
 We compared our model with [PointINet](https://www.engineeringvillage.com/app/doc/?docid=cpx_32d64213180f209ab7cM76fe10178163134&pageSize=25&index=1&searchId=9beda5bd86214bb1a5cc12b1f41269ff&resultsCount=2&usageZone=resultslist&usageOrigin=searchresults&searchType=Quick) and [IDEA-Net](https://ieeexplore.ieee.org/document/9880149) on CD and EMD.
-![Results](.\results.png) 
-![Results](.\results2.png) 
-![Results](.\Comparison.gif) 
+![Results](fig\results.png) 
+![Results](fig\results2.png) 
+![Results](fig\Comparison.gif) 
+
 ## Usage
 ### Requirements
 
