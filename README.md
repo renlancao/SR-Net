@@ -7,7 +7,7 @@ In this paper, we organically combine scene flows and features to propose a two-
 ## Results
 We compared our model with [PointINet](https://www.engineeringvillage.com/app/doc/?docid=cpx_32d64213180f209ab7cM76fe10178163134&pageSize=25&index=1&searchId=9beda5bd86214bb1a5cc12b1f41269ff&resultsCount=2&usageZone=resultslist&usageOrigin=searchresults&searchType=Quick) and [IDEA-Net](https://ieeexplore.ieee.org/document/9880149) on CD and EMD.
 <div align="center">
-<img src="./fig/Results.png"  width = "750" />
+<img src="./fig/Results.png"  width = "700" />
 </div>
 
 <div align="center">
