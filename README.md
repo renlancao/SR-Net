@@ -48,11 +48,11 @@ We provide our pretrained model for inference.
 
 To evaluate a pre-trained SR-Net on MITAMA dataset with single GPU, run:
 ```[python]
-python test.py --test_root path\to\testdataset --pretrain_model path\SRmodel\model_for_mitama.pth 
+python test.py --test_root path\to\testdataset --pretrain_model .\SRmodel\model_for_mitama.pth 
 ```
 To evaluate a pre-trained SR-Net on 8IVSLF dataset with single GPU, run:
 ```[python]
-python test.py --test_root path\to\testdataset --pretrain_model path\SRmodel\model_for_8ivslf.pth 
+python test.py --test_root path\to\testdataset --pretrain_model .\SRmodel\model_for_8ivslf.pth 
 ```
 
 
