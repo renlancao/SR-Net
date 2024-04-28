@@ -23,8 +23,19 @@ We provide a video demo to verify the spatial-temporal consistency of our propos
 
 ## Usage
 ### Requirements
+Our code is developed and tested on the following environment:
+
+·Python 3.7
+·PyTorch 1.7.0
+·Cuda 10.1
+·Numpy 1.19
+
+And we utilized open source pointnet2 to implement the code as below:
+[Pointnet2](https://github.com/sshaoshuai/Pointnet2.PyTorch/issues)
 
 ### Dataset
+
+We processed the point cloud sequences of [DHBdataset](https://ieeexplore.ieee.org/document/9880149) and [MPEG-PCC](https://mpeg-pcc.org/index.php/pcc-content-database/) and [8i Lab](http://plenodb.jpeg.org/pc/8ilabs/) to obtain the [dataset](https://pan.baidu.com/s/1TndzM3W2ZAFp8bH0E_5QzA?pwd=zfym) for training and testing of our model.
 
 ### Train
 Our model training process can be divided into two steps: Initial training on MITAMA dataset and finetuning on 8IVSLF dataset.
