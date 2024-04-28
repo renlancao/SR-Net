@@ -25,14 +25,12 @@ We provide a video demo to verify the spatial-temporal consistency of our propos
 ### Requirements
 Our code is developed and tested on the following environment:
 
-*Python 3.7
-*PyTorch 1.7.0
-*Cuda 10.1
-*Numpy 1.19
+* Python 3.7
+* PyTorch 1.7.0
+* Cuda 10.1
+* Numpy 1.19
 
-And we utilized open source pointnet2 to implement the code as below:
-
-[Pointnet2](https://github.com/sshaoshuai/Pointnet2.PyTorch/issues)
+And we utilized open source pointnet2 to implement our code: [Pointnet2](https://github.com/sshaoshuai/Pointnet2.PyTorch/issues)
 
 ### Dataset
 
