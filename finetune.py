@@ -34,7 +34,7 @@ def parse_args():
     parser.add_argument('--save_dir', type=str, default='model_pretrained/')
     parser.add_argument('--mid_save_dir', type=str, default='model_mid/')
     parser.add_argument('--save_name', type=str, default='model_for_8ivslf')
-    parser.add_argument('--model_for_dhb', type=str, default='SRmodel/model_for_dhb.pth')
+    parser.add_argument('--model_for_dhb', type=str, default='SRmodel/model_for_mitama.pth')
     parser.add_argument('--npoints', type=int, default=1024)
     parser.add_argument('--dataset', type=str, default='DHB')
     parser.add_argument('--pretrain_flow_model', type=str, default='flow_finetuned/flownet.pth')

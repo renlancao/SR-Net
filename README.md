@@ -34,7 +34,7 @@ And we utilized open source pointnet2 to implement our code: [Pointnet2](https:/
 
 ### Dataset
 
-We processed the point cloud sequences of [DHBdataset](https://ieeexplore.ieee.org/document/9880149) and [MPEG-PCC](https://mpeg-pcc.org/index.php/pcc-content-database/) and [8i Lab](http://plenodb.jpeg.org/pc/8ilabs/) to obtain the [dataset](https://pan.baidu.com/s/1TndzM3W2ZAFp8bH0E_5QzA?pwd=zfym) for training and testing of our model.
+We processed the point cloud sequences of [MITAMA dataset](https://ieeexplore.ieee.org/document/9880149) and [MPEG-PCC](https://mpeg-pcc.org/index.php/pcc-content-database/) and [8i Lab](http://plenodb.jpeg.org/pc/8ilabs/) to obtain the [dataset](https://pan.baidu.com/s/1TndzM3W2ZAFp8bH0E_5QzA?pwd=zfym) for training and testing of our model.
 
 ### Train
 Our model training process can be divided into two steps: Initial training on MITAMA dataset and finetuning on 8IVSLF dataset.
@@ -48,7 +48,7 @@ We provide our pretrained model for inference.
 
 To evaluate a pre-trained SR-Net on MITAMA dataset with single GPU, run:
 ```[python]
-python test.py --test_root path\to\testdataset --pretrain_model path\SRmodel\model_for_dhb.pth 
+python test.py --test_root path\to\testdataset --pretrain_model path\SRmodel\model_for_mitama.pth 
 ```
 To evaluate a pre-trained SR-Net on 8IVSLF dataset with single GPU, run:
 ```[python]
